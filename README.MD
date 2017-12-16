@@ -1,6 +1,6 @@
 <img src="https://daks2k3a4ib2z.cloudfront.net/5a08c3258e7d0400017c7ecd/5a08cc698e7d0400017c8255_VICO_White.png">
 
-#VICO Capital Fund
+# VICO Capital Fund
 
 Capitalize on an emerging market with finance and strategic industry professionals.
 <br><br>Whitepaper
