@@ -1,9 +1,8 @@
 <img src="https://i.imgur.com/gW6acW5.png">
 
-# VICO Capital Fund
+# Whitepaper
 
 Capitalize on an emerging market with finance and strategic industry professionals.
-<br><br>Whitepaper
 <br><br><b>Date:</b> 12/6/2017
 <br>[Visit the VICO Capital Website](https://vico.capital)
 ### Abstract
