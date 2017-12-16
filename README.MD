@@ -1,4 +1,4 @@
-<img src="https://daks2k3a4ib2z.cloudfront.net/5a08c3258e7d0400017c7ecd/5a08cc698e7d0400017c8255_VICO_White.png">
+<img src="https://i.imgur.com/W8O4vKK.png">
 
 # VICO Capital Fund
 
