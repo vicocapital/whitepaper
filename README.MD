@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/W8O4vKK.png">
+<img src="https://i.imgur.com/gW6acW5.png">
 
 # VICO Capital Fund
 
