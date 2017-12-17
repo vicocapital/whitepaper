@@ -25,6 +25,11 @@ VICO Capital's unique framework aims to provide solutions for market volatility,
 
 Utilizing this framework should enable VICO to deliver above industry average returns in any market condition.
 
+<p align="center">
+<img src="https://i.imgur.com/XMj74F2.png"><br><br>
+The VICO model is not dependent on one market.
+</p>
+
 ### 3. Investment Methods, Strategy and VICO Edge
 
 ```
@@ -33,6 +38,8 @@ Utilizing this framework should enable VICO to deliver above industry average re
 3. In-house developed profitable business ventures within the crypto-space.
 4. Derivatives volatility trading.
 ```
+
+Each Investment Method is a Hedge to prevent loss in a certain sector.
 
 #### 3.1 The VICO Edge
 
