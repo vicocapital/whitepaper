@@ -78,3 +78,15 @@ p = 200%
 
 i = 200/100 * (0.6) + (0.01 * 2)
 ```
+
+### Disclaimer
+
+This VICO whitepaper is for information purposes only and is subject to change. VICO does not guarantee the accuracy of or the conclusions reached in this white paper, and this whitepaper is provided “as is”. VICO does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to:
+
+1. Warranties of merchantability, fitness for a particular purpose, suitability, usage, title or non-infringement.
+2. The contents of this white paper are free from error or misinformation.
+3. That such contents will not infringe third-party rights.
+
+VICO and its affiliates shall carry no liability for damages of any kind arising out of the use, reference to, or reliance on this white paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will VICO or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this whitepaper or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
+
+Copyright (c) 2018 VICO Capital Without permission, anyone may use, reproduce or distribute any material in this whitepaper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited and proper credit is given.
