@@ -2,7 +2,7 @@
 
 # Whitepaper
 
-Capitalize on an emerging market with finance and strategic industry professionals.
+Capitalize on an emerging market with Blockchain and finance experts.
 <br><br><b>Date:</b> 12/6/2017
 <br>[Visit the VICO Capital Website](https://vico.capital)
 
@@ -30,16 +30,21 @@ Utilizing this framework should enable VICO to deliver above industry average re
 The VICO model is not dependent on one market.
 </p>
 
-### 3. Investment Methods, Strategy and VICO Edge
+### 3. Investment Methods, Strategy and the VICO Edge
 
 ```
 1. Projects which pass our verification criteria and have a disruptive blockchain model.
-2. Early-bird investment opportunities from trusted parties.
 3. In-house developed profitable business ventures within the crypto-space.
 4. Derivatives volatility trading.
 ```
 
 Each Investment Method is a Hedge to prevent loss in a certain sector.
+
+<p align="center">
+<br>
+<img src="https://i.imgur.com/btbWTCJ.png"><br><br>
+Diagram of the VICO flow.
+</p>
 
 #### 3.1 The VICO Edge
 
@@ -49,8 +54,8 @@ VICO Capital understands the importance of timing, capital and execution. Unlike
 
 VICO Capital will utilize an in-house risk management technique to prevent catastrophic loss while having a well balanced and profitable portfolio.
 
-1. Unused liquid funds will be stored on hardware wallets.
-2. Funds being actively traded will be distributed across multiple exchanges to minimize external third party risk.
+1. Unused liquid funds will be stored offline.
+2. Funds being actively invested will be distributed across multiple exchanges to minimize external third party risk.
 3. Short term hold strategy will be in place for the majority of holdings and profit taking will be frequent. This is to ensure we have enough funds available to accommodate a healthy liquidity pool when investors want to pull our their capital.
 4. Long-term investments will be coordinated with the amount of capital available. Raises or contracts will be in place if or when needed.
 
@@ -60,10 +65,13 @@ VICO operates as an I Owe You (or interest bearing loan between the lender and V
 
 ````
 Token Maximum Supply: 4,000,000
+Token Symbol: VICO
 ````
 
 ### Variable Interest Rate
+
 The interest rate is based on the funds performance and will vary year after year.
+
 ```
 i = interest (percentage)
 t = contract time-lock (years)
@@ -79,9 +87,11 @@ p = 200%
 i = 200/100 * (0.6) + (0.01 * 2)
 ```
 
+Longer term contracts will enjoy a higher % of return as it will allow the liquidity pool to be much larger.
+
 ### Disclaimer
 
-This VICO whitepaper is for information purposes only and is subject to change. VICO does not guarantee the accuracy of or the conclusions reached in this white paper, and this whitepaper is provided “as is”. VICO does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to:
+This VICO whitepaper is for information purposes only and is subject to change. VICO does not guarantee the accuracy of or the conclusions reached in this whitepaper, and this whitepaper is provided “as is”. VICO does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to:
 
 1. Warranties of merchantability, fitness for a particular purpose, suitability, usage, title or non-infringement.
 2. The contents of this white paper are free from error or misinformation.
