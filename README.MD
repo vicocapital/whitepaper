@@ -42,7 +42,7 @@ Each Investment Method is a Hedge to prevent loss in a certain sector.
 
 <p align="center">
 <br>
-<img src="https://i.imgur.com/btbWTCJ.png"><br><br>
+<img src="https://i.imgur.com/2JZLEyK.png"><br><br>
 Diagram of the VICO flow.
 </p>
 
