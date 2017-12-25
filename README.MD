@@ -37,9 +37,9 @@ This year has witnessed the remarkable rise of cryptocurrency prices, ICOs and b
 
 A word which makes investors feel warm, fuzzy and safe.
 
-A diversified investment portfolio “may provide the potential to improve [risk-adjusted] returns,” fund giant Fidelity Investments explained to its investors. They included included several nice looking pie charts showing stocks balanced against cash, bonds and foreign securities. A well-diversified portfolio, Fidelity said, would comprise, “ideally, assets whose returns move in the opposite direction.”
+A diversified investment portfolio “may provide the potential to improve [risk-adjusted] returns,” fund giant Fidelity Investments explained to its investors. They included several nice looking pie charts showing stocks balanced against cash, bonds and many foreign securities. A well-diversified portfolio, Fidelity said, would comprise, “ideally, assets whose returns move in the opposite direction.”
 
-The carnage and bubble of 2008 and 2009 should have taught many investors just how inefficient the diversification model really is. Legions of seemingly well-diversified investors, both big and small alike — found that they had failed to diversify their way out of a financial hurricane which could occur in any market.
+The carnage and bubble of 2008 should have taught many investors just how inefficient the diversification model really is. Legions of seemingly well-diversified investors, both big and small alike — found that they had failed to diversify their way out of a total financial crisis. Devastating crashes can occur in any market at anytime.
 
 #### 1.1.2 Common Fund Diagram
 <p align="center">
@@ -89,9 +89,13 @@ VICO Capital will utilize an in-house risk management technique to prevent catas
 
 # 3. The VICO Capital Token (VCAP)
 
-VICO operates as an I Owe You (or interest bearing loan between the lender and VICO Capital). It cannot be traded on a secondary market nor can it appreciate in value. At the end of the contract VICO is obligated to buy back the token for the same value paid. Whomever possesses the token in between will be entitled to interest based on the funds performance and contract expiry.
+"VCAP" is the native token for VICO Capital. Only select individuals will be able to acquire them and they are non-transferable.
 
 ### 3.1 Understanding VCAP
+
+VICO operates as an I Owe You (or interest bearing loan between the lender and VICO Capital). It cannot be traded on a secondary market nor can it appreciate in value. At the end of the contract VICO is obligated to buy back the token for the same value paid. Whomever possesses the token in between will be entitled to interest based on the funds performance and contract expiry.
+
+At the end of the contract, the token holder has the opportunity to sell the token back to VICO Capital or choose to renew it.
 
 ### 3.2 Token Supply
 
