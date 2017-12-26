@@ -25,7 +25,7 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
    * [Token Supply](#32-token-supply)
 4. [Variable Interest Rate](#4-variable-interest-rate)
    * [Reporting](#42-reporting)
-   * [Business Model](#)
+   * [Business Model](#43-business-model)
 5. [Disclaimer](#5-disclaimer)
    * [Restrictions](#51-restrictions)
 
@@ -142,7 +142,7 @@ Due to the sophistication of the VICO Capital fund operations, traditional manag
 1. Significantly lower capital raise
 2. Management consists of more than just traditional analysis
 3. Daily operations are more complex than traditional funds
-4. Liquidity is needed for investors, meaning even less capital is available readily 
+4. Liquidity is needed for investors, meaning even less capital is available readily
 ```
 
 # 5. Disclaimer
