@@ -24,7 +24,7 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
    * [Understanding VCAP](#31-understanding-vcap)
    * [Token Supply](#32-token-supply)
 4. [Variable Interest Rate](#4-variable-interest-rate)
-   * [Reporting](#)
+   * [Reporting](#42-reporting)
 5. [Disclaimer](#5-disclaimer)
    * [Restrictions](#51-restrictions)
 
