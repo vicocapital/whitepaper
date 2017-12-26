@@ -134,6 +134,17 @@ Longer term contracts will enjoy a higher % of return as it will allow the liqui
 
 Reports are scheduled to be emailed to all token holders every quarter. They will also be available online for members to view while they retain VICO tokens. Business dealings, current crypto holdings, current liquidity and active trades will be transparent to investors for reference.
 
+### 4.3 Business Model
+
+Due to the sophistication of the VICO Capital fund operations, traditional management fees such as the 2 and 20 model do not apply for the following reasons:
+
+```
+1. Significantly lower capital raise
+2. Management consists of more than just traditional analysis
+3. Daily operations are more complex than traditional funds
+4. Liquidity is needed for investors, meaning even less capital is available readily 
+```
+
 # 5. Disclaimer
 
 This VICO whitepaper is for information purposes only and is subject to change. VICO does not guarantee the accuracy of or the conclusions reached in this whitepaper, and this whitepaper is provided “as is”. VICO does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to:
