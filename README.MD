@@ -12,7 +12,7 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
 
 ### Table of Contents
 
-1. Dilemma and Solution
+1. [Dilemma and Solution](#1-the-dilemma)
    * Traditional Diversification
      * Common Fund Diagram
    * Solution
