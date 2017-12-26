@@ -17,15 +17,15 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
      * [Common Fund Diagram](#112-common-fund-diagram)
    * [Solution](#12-the-solution)
 2. [Investment Methods and Strategy](#2-investment-methods-and-strategy)
-   * [Flow Diagram](#2-investment-methods-and-strategy)
-   * The VICO Edge
-   * Risk Management
-3. VCAP Token
-   * Understanding VCAP
-   * Token Supply
-4. Variable Interest Rate
-5. Disclaimer
-   * Restrictions
+   * [Flow Diagram](#21-flow-diagram)
+   * [The VICO Edge](#22-the-vico-edge)
+   * [Risk Management](#23-risk-management)
+3. [VCAP Token](#3-the-vico-capital-token-vcap)
+   * [Understanding VCAP](#31-understanding-vcap)
+   * [Token Supply](#32-token-supply)
+4. [Variable Interest Rate](#4-variable-interest-rate)
+5. [Disclaimer](#5-disclaimer)
+   * [Restrictions](#51-restrictions)
 
 # 1. The Dilemma
 
