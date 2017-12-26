@@ -13,11 +13,11 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
 ### Table of Contents
 
 1. [Dilemma and Solution](#1-the-dilemma)
-   * Traditional Diversification
-     * Common Fund Diagram
-   * Solution
-2. Investment Methods and Strategy
-   * Flow Diagram
+   * [Traditional Diversification](#11-traditional-diversification)
+     * [Common Fund Diagram](#112-common-fund-diagram)
+   * [Solution](#12-the-solution)
+2. [Investment Methods and Strategy](#2-investment-methods-and-strategy)
+   * [Flow Diagram](#2-investment-methods-and-strategy)
    * The VICO Edge
    * Risk Management
 3. VCAP Token
@@ -68,17 +68,19 @@ The VICO model is not dependent on one market.
 
 Each Investment Method is a Hedge to prevent loss in a certain sector.
 
+### 2.1 Flow Diagram
+
 <p align="center">
 <br>
 <img src="https://i.imgur.com/mx0AkiI.png"><br><br>
-Diagram of the VICO flow.
+The VICO fund flow.
 </p>
 
-### 2.1 The VICO Edge
+### 2.2 The VICO Edge
 
 VICO Capital understands the importance of timing, capital and execution. Unlike many other funds, which use the typical diversification model or fundamental analysis for making "educated" investments, these are not recession proof strategies. The VICO approach is more sophisticated than traditional funds, and combines well experienced traders with blockchain specific investors.
 
-### 2.2 Risk Management
+### 2.3 Risk Management
 
 VICO Capital will utilize an in-house risk management technique to prevent catastrophic loss while having a well balanced and profitable portfolio.
 
