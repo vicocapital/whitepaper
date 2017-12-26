@@ -131,7 +131,7 @@ Longer term contracts will enjoy a higher % of return as it will allow the liqui
 
 ### 4.2 Reporting
 
-Reports will be sent to token holders every quarter and be available on their dashboard.
+Reports are scheduled to be sent out to token holders every quarter and will be available online for members to view while they retain VICO tokens. Business dealings, current crypto holdings, current liquidity and active trades will be transparent to investors for reference.
 
 # 5. Disclaimer
 
