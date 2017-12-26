@@ -167,4 +167,6 @@ Token purchases have restrictions on the following countries:
 3. China
 ````
 
+Due to legal uncertainties and the complexity of US financial regulations, VICO Capital will not accept any risk associated with any Contributions of US persons by residency or citizenship (“US-Persons”).
+
 Buyers should understand that VCAP tokens do <strong>NOT</strong> represent a security. They are an "I Owe You" token which represent a contract to a loan amount. This structure allows VICO Capital to retain the ability to become a proper publicly traded fund in the future.
