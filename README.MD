@@ -24,6 +24,7 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
    * [Understanding VCAP](#31-understanding-vcap)
    * [Token Supply](#32-token-supply)
 4. [Variable Interest Rate](#4-variable-interest-rate)
+   * [Reporting](#)
 5. [Disclaimer](#5-disclaimer)
    * [Restrictions](#51-restrictions)
 
@@ -104,6 +105,7 @@ At the end of the contract, the token holder has the opportunity to sell the tok
 ````
 Token Maximum Supply: 4,000,000
 Token Symbol: VCAP
+Token Value: $1.00 USD
 ````
 
 # 4. Variable Interest Rate
@@ -126,6 +128,10 @@ i = 200/100 * (0.6) + (0.01 * 2)
 ```
 
 Longer term contracts will enjoy a higher % of return as it will allow the liquidity pool to be much larger.
+
+### 4.2 Reporting
+
+Reports will be sent to token holders every quarter and be available on their dashboard.
 
 # 5. Disclaimer
 
