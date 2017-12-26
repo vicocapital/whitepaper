@@ -25,6 +25,7 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
    * [Token Supply](#32-token-supply)
 4. [Variable Interest Rate](#4-variable-interest-rate)
    * [Reporting](#42-reporting)
+   * [Business Model](#)
 5. [Disclaimer](#5-disclaimer)
    * [Restrictions](#51-restrictions)
 
@@ -131,7 +132,7 @@ Longer term contracts will enjoy a higher % of return as it will allow the liqui
 
 ### 4.2 Reporting
 
-Reports are scheduled to be sent out to token holders every quarter and will be available online for members to view while they retain VICO tokens. Business dealings, current crypto holdings, current liquidity and active trades will be transparent to investors for reference.
+Reports are scheduled to be emailed to all token holders every quarter. They will also be available online for members to view while they retain VICO tokens. Business dealings, current crypto holdings, current liquidity and active trades will be transparent to investors for reference.
 
 # 5. Disclaimer
 
