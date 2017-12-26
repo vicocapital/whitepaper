@@ -142,7 +142,7 @@ Due to the sophistication of the VICO Capital fund operations, traditional manag
 1. Significantly lower capital raise
 2. Management consists of more than just traditional analysis
 3. Daily operations are more complex than traditional funds
-4. Liquidity is needed for investors, meaning even less capital is available readily
+4. Liquidity is needed for investors, meaning even less capital is readily available
 ```
 
 # 5. Disclaimer
