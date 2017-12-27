@@ -28,10 +28,10 @@ The Blockchain and Cryptocurrency market gives entrepreneurs the potential to cr
    * [Business Model](#43-business-model)
 5. [Disclaimer](#5-disclaimer)
    * [Restrictions](#51-restrictions)
-     * [USA](#)
-     * [Canada](#)
-     * [China](#)
-     * [VCAP as Securities](#)
+     * [USA](#511-usa)
+     * [Canada](#512-canada)
+     * [China](#513-china)
+     * [VCAP as Securities](#514-vcap-as-securities)
 
 # 1. The Dilemma
 
