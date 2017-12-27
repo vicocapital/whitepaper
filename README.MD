@@ -68,8 +68,8 @@ The VICO model is not dependent on one market.
 
 ```
 1. Projects which pass our verification criteria and have a disruptive blockchain model.
-3. In-house developed profitable business ventures within the crypto-space.
-4. Derivatives volatility trading.
+2. In-house developed profitable business ventures within the crypto-space.
+3. Derivatives volatility trading.
 ```
 
 Each Investment Method is a Hedge to prevent loss in a certain sector.
