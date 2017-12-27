@@ -167,6 +167,20 @@ Token purchases have restrictions on the following countries:
 3. China
 ````
 
-Due to legal uncertainties and the complexity of US financial regulations, VICO Capital will not accept any risk associated with any Contributions of US persons by residency or citizenship (“US-Persons”).
+#### 1. USA
+
+Due to legal uncertainties and the complexity of US financial regulations, VICO Capital will not accept any risk associated with any Contributions of US persons by residency or citizenship (“US-Persons”). VICO Capital will not accept any risk associated with any Contributions of US persons by residency or citizenship (“US-Persons”).
+
+All contributors hereby accepts any and all risks, costs and damages associated with contributions from any US Persons, US entity or US entity related in any way to the contributor. The contributor also understands that all US-Persons, US entity or US entity related in any way to the Contributor will not be able to access our website or token sale page from an American internet proxy address (together “IP Address”), and the reason for risks related guidelines in these terms, is for those who choose to use a VPN and ultimately bypass our blocking mechanism utilized on our website and other related websites involved in the token sale.
+
+#### 2. Canada
+
+Due to legal uncertainties and the complexity of Canadian federal and provincial financial regulations, VICO Capital will not accept any risk associated with any contributions of Canadian persons by residency or citizenship (“CA-Persons”). VICO Capital will not accept any risk associated with any Contributions of Canadian persons by residency or citizenship (“CA-Persons”).
+
+#### 3. China
+
+The People's Bank of China (PBoC) issued a sharp statement labelling token sales "illegal and disruptive to economic and financial stability" and therefore VICO Capital prohibits Chinese token buyers.
+
+#### 4. VCAP as Securities
 
 Buyers should understand that VCAP tokens do <strong>NOT</strong> represent a security. They are an "I Owe You" token which represent a contract to a loan amount. This structure allows VICO Capital to retain the ability to become a proper publicly traded fund in the future.
